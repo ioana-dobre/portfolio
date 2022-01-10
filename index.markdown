@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ioana Dobre – Freelance transcriber, proofreader and translator
+# Ioana Dobre – Freelance transcriber, translator and proofreader
 
 E-mail: [ioana.dobre@protonmail.com](mailto:ioana.dobre@protonmail.com)
 
@@ -16,9 +16,9 @@ Location: Romania
 
 ![portfolio picture](assets/portfolio_picture.png){:width="250px"}
 
-I’m a Romanian freelancer working with text (transcribing, proofreading and translating) and I’m looking for projects related to those skills. I’m willing to extend my areas of interest and expertise - social sciences. So far I transcribed 38 sociological research interviews. Also, I proofread a sociological book and I fell in love with proofreading. In addition, I contributed to the translation, from English to Romanian, of the psychological support website 7cups.com.
+I am a Romanian freelancer working with text (transcribing, translating and proofreading) and I am looking for projects related to those skills. I am willing to extend my areas of interest and expertise - social sciences. So far I transcribed 38 sociological research interviews. Also, I proofread a sociological book and I fell in love with proofreading. In addition, I contributed to the translation, from English to Romanian, of the psychological support website 7cups.com.
 
-Given my expertise, my permanent desire to improve and self-determination, I'm sure you or your company would benefit from my skills and knowledge. Reach out to me and I'll be happy to discuss the details of a cooperation from which everyone involved will benefit.
+Given my expertise, my permanent desire to improve and self-determination, I am sure you or your company would benefit from my skills and knowledge. Reach out to me and I will be happy to discuss the details of a cooperation from which everyone involved will benefit.
 
 ## My projects
 
@@ -29,15 +29,11 @@ Entrepreneur through Migration Experience” (RISK)**
 The project focused on the relationship between migration and entrepreneurship. It was coordinated by university lecturer doctor Alin Croitoru of “Lucian Blaga” University of Sibiu. My job was to transcribe 18 interviews featuring migrants who returned home.
 
 **The sociological research project entitled “Communication and sense of belonging in an organization”**
-It was my own qualitative research as a graduate student. I transcribed 10 interviews which I took myself.
+It was my own qualitative research as a graduate student. As a part of the research process I took 10 interviews and I transcribed them.
 
 
 **An ethnological research project focused on traditions**
 It was an ethnological project funded by ASTRA National Museum Complex Sibiu which was focused on recording various traditions through interviews. I transcribed 10 interviews featuring people from various villages of the Sibiu county talking about the traditions in their residential areas.
-
-### Proofreader for Romanian language
-
-I proofread a sociological book entitled **"Reconfigurări ale spațiului public în România postsocialistă: atitudini sociale față de redenumirea străzilor și înlăturarea statuilor"**  written by Mihai Rusu and Alin Croitoru.
 
 ### Translator En - Ro
 
@@ -48,6 +44,11 @@ Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” Unive
 **The 7 cups Translation Project**
 
 7 cups is a website which provides online therapy and free support to people experiencing emotional distress by connecting them with trained volunteer listeners. I contributed to the translation of the site from English to Romanian to make it available to non-English speakers.
+
+### Proofreader for Romanian language
+
+I proofread a sociological book entitled **"Reconfigurări ale spațiului public în România postsocialistă: atitudini sociale față de redenumirea străzilor și înlăturarea statuilor"**  written by Mihai Rusu and Alin Croitoru.
+
 
 ## Work samples
 
