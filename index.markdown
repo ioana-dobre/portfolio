@@ -24,15 +24,17 @@ Given my expertise, my permanent desire to improve and self-determination, I am 
 
 ### Interview transcriber for Romanian language
 
-**The sociological research project “Returnees’ Innovative Skills and Knowledge: Becoming
-Entrepreneur through Migration Experience” (RISK)**
+**The sociological research project “Returnees’ Innovative Skills and Knowledge: Becoming Entrepreneur through Migration Experience” (RISK)**
+
 The project focused on the relationship between migration and entrepreneurship. It was coordinated by university lecturer doctor Alin Croitoru of “Lucian Blaga” University of Sibiu. My job was to transcribe 18 interviews featuring migrants who returned home.
 
 **The sociological research project entitled “Communication and sense of belonging in an organization”**
+
 It was my own qualitative research as a graduate student. As a part of the research process I took 10 interviews and I transcribed them.
 
 
 **An ethnological research project focused on traditions**
+
 It was an ethnological project funded by ASTRA National Museum Complex Sibiu which was focused on recording various traditions through interviews. I transcribed 10 interviews featuring people from various villages of the Sibiu county talking about the traditions in their residential areas.
 
 ### Translator En - Ro
