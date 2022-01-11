@@ -16,40 +16,39 @@ Location: Romania
 
 ![portfolio picture](assets/portfolio_picture.png){:width="250px"}
 
-I am a Romanian freelancer working with text (transcribing, translating and proofreading) and I am looking for projects related to those skills. I am willing to extend my areas of interest and expertise - social sciences. So far I transcribed 38 sociological research interviews. Also, I proofread a sociological book and I fell in love with proofreading. In addition, I contributed to the translation, from English to Romanian, of the psychological support website 7cups.com.
+<div style="text-align: justify">I am a Romanian freelancer working with text (transcribing, translating and proofreading) and I am looking for projects related to those skills. I am willing to extend my areas of interest and expertise - social sciences. So far I transcribed 38 sociological research interviews. Also, I proofread a sociological book and I fell in love with proofreading. In addition, I contributed to the translation, from English to Romanian, of the psychological support website 7cups.com.</div>
 
-Given my expertise, my permanent desire to improve and self-determination, I am sure you or your company would benefit from my skills and knowledge. Reach out to me and I will be happy to discuss the details of a cooperation from which everyone involved will benefit.
+<div style="text-align: justify">Given my expertise, my permanent desire to improve and self-determination, I am sure you or your company would benefit from my skills and knowledge. Reach out to me and I will be happy to discuss the details of a cooperation from which everyone involved will benefit.</div>
 
 ## My projects
 
 ### Interview transcriber for Romanian language
 
 **The sociological research project “Returnees’ Innovative Skills and Knowledge: Becoming Entrepreneur through Migration Experience” (RISK)**
-
-The project focused on the relationship between migration and entrepreneurship. It was coordinated by university lecturer doctor Alin Croitoru of “Lucian Blaga” University of Sibiu. My job was to transcribe 18 interviews featuring migrants who returned home.
+<div style="text-align: justify">The project focused on the relationship between migration and entrepreneurship. It was coordinated by university lecturer doctor Alin Croitoru of “Lucian Blaga” University of Sibiu. My job was to transcribe 18 interviews featuring migrants who returned home.</div>
 
 **The sociological research project entitled “Communication and sense of belonging in an organization”**
-
-It was my own qualitative research as a graduate student. As a part of the research process I took 10 interviews and I transcribed them.
+<div style="text-align: justify">It was my own qualitative research as a graduate student. As a part of the research process I took 10 interviews and I transcribed them. </div>
 
 
 **An ethnological research project focused on traditions**
+<div style="text-align: justify">It was an ethnological project funded by ASTRA National Museum Complex Sibiu which was focused on recording various traditions through interviews. I transcribed 10 interviews featuring people from various villages of the Sibiu county talking about the traditions in their residential areas.</div>
 
-It was an ethnological project funded by ASTRA National Museum Complex Sibiu which was focused on recording various traditions through interviews. I transcribed 10 interviews featuring people from various villages of the Sibiu county talking about the traditions in their residential areas.
+
 
 ### Translator En - Ro
 
 **The sociological research project “Negotiating Return to Work in the Age of Demographic Change through Industrial Relations” (REWIR)**
-
-Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” University of Sibiu, the project focused on policies about the return to work of people after a long absence due to medical issues. I translated from English to Romanian a research report and a briefing.
+<div style="text-align: justify">Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” University of Sibiu, the project focused on policies about the return to work of people after a long absence due to medical issues. I translated from English to Romanian a research report and a briefing.</div>
 
 **The 7 cups Translation Project**
+<div style="text-align: justify">7 cups is a website which provides online therapy and free support to people experiencing emotional distress by connecting them with trained volunteer listeners. I contributed to the translation of the site from English to Romanian to make it available to non-English speakers. </div>
 
-7 cups is a website which provides online therapy and free support to people experiencing emotional distress by connecting them with trained volunteer listeners. I contributed to the translation of the site from English to Romanian to make it available to non-English speakers.
 
 ### Proofreader for Romanian language
 
-I proofread a sociological book entitled **"Reconfigurări ale spațiului public în România postsocialistă: atitudini sociale față de redenumirea străzilor și înlăturarea statuilor"**  written by Mihai Rusu and Alin Croitoru.
+<div style="text-align: justify">
+I proofread a sociological book entitled "Reconfigurări ale spațiului public în România postsocialistă: atitudini sociale față de redenumirea străzilor și înlăturarea statuilor" written by Mihai Rusu and Alin Croitoru.</div>
 
 
 ## Work samples
@@ -60,13 +59,13 @@ I proofread a sociological book entitled **"Reconfigurări ale spațiului public
 
 ## Testimonials
 
-*“I am very pleased with the quality of work and the level of textual engagement with my manuscript done by Ioana Dobre. She provided meticulous proofing and spotted what would have otherwise been rather embarrassing typos and other grammatical mistakes after publishing. Academic researchers need such committed professional proofreaders, whose services allow them to focus entirely on the content of their work. Ioana is definitely such a reliable professional.”*
+<div style="text-align: justify">*“I am very pleased with the quality of work and the level of textual engagement with my manuscript done by Ioana Dobre. She provided meticulous proofing and spotted what would have otherwise been rather embarrassing typos and other grammatical mistakes after publishing. Academic researchers need such committed professional proofreaders, whose services allow them to focus entirely on the content of their work. Ioana is definitely such a reliable professional.”*</div>
 
 **Mihai Rusu, lecturer at ‘Lucian Blaga’ University of Sibiu**
 
 [mihai.rusu@ulbsibiu.ro](mailto:mihai.rusu@ulbsibiu.ro)
 
-*“Ioana was one of the few brilliant students of my class of Classical Sociology Theory at university. After a while, I was very happy that she responded positively to my invitation to perform work as a research assistant within a national research project focused on international migration and entrepreneurship. She perfectly understood the requirements of social research activity and managed to provide high quality transcription for in-depth interviews. She was able to prioritize tasks, worked laboriously and always respected deadlines. Certainly, I would recommend her for future projects.”*
+<div style="text-align: justify">*“Ioana was one of the few brilliant students of my class of Classical Sociology Theory at university. After a while, I was very happy that she responded positively to my invitation to perform work as a research assistant within a national research project focused on international migration and entrepreneurship. She perfectly understood the requirements of social research activity and managed to provide high quality transcription for in-depth interviews. She was able to prioritize tasks, worked laboriously and always respected deadlines. Certainly, I would recommend her for future projects.”*</div>
 
 **Alin Croitoru, lecturer at ‘Lucian Blaga’ University of Sibiu**
 
