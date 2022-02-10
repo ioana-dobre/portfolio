@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ioana Dobre – Freelance transcriber, translator and proofreader
+# Ioana Dobre – Transcriber, English to Romanian translator and proofreader
 
 E-mail: [ioana.dobre@protonmail.com](mailto:ioana.dobre@protonmail.com)
 
@@ -16,9 +16,11 @@ Location: Romania
 
 ![portfolio picture](assets/portfolio_picture.png){:width="250px"}
 
-I am a Romanian freelancer working with text (transcribing, translating and proofreading) and I am looking for projects related to those skills. I am willing to extend my areas of interest and expertise - social sciences. So far I transcribed 38 sociological research interviews. Also, I proofread a sociological book and I fell in love with proofreading. In addition, I contributed to the translation, from English to Romanian, of the psychological support website 7cups.com.
+I offer transcribing, translating and proofreading services. I'm native in Romanian and advanced in English (C1). My areas of expertise are sociology, ethnology, human resources and social work. I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software: Microsoft Word, ExpressScribe (for transcribing) and OmegaT (for translation).
 
-Given my expertise, my permanent desire to improve and self-determination, I am sure you or your company would benefit from my skills and knowledge. Reach out to me and I will be happy to discuss the details of a cooperation from which everyone involved will benefit.
+I have transcribed 38 interviews so far. Furthermore, I have experience in translating sociological text from English to Romanian and in proofreading sociological books in Romanian. In addition, I like to donate my time and skills to various crowd sourced projects which are important to me. I have been a contributor to the 7cups translation project and to Wikipedia, where I translate articles from English to Romanian.
+
+If you have the possibility, why not buy time by hiring me to take care of small details of your work while you can focus more on what's important to you?
 
 ## My projects
 
@@ -42,6 +44,10 @@ It was an ethnological project funded by ASTRA National Museum Complex Sibiu whi
 **The sociological research project “Negotiating Return to Work in the Age of Demographic Change through Industrial Relations” (REWIR)**
 
 Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” University of Sibiu, the project focused on policies about the return to work of people after a long absence due to medical issues. I translated from English to Romanian a research report and a briefing.
+
+**Wikipedia Translator**
+
+I am a contributor on Wikipedia and I translate articles from English to Romanian to help improve the website by localization and at the same time to practice my translation skills. You can see my work [here](https://en.wikipedia.org/wiki/User:Ioana2022).
 
 **The 7 cups Translation Project**
 
