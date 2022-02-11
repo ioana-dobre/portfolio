@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ioana Dobre – Transcriber, English to Romanian translator and proofreader
+# Ioana Dobre – Transcriber, English to Romanian Translator and Proofreader
 
 E-mail: [ioana.dobre@protonmail.com](mailto:ioana.dobre@protonmail.com)
 
@@ -61,6 +61,8 @@ I proofread a sociological book entitled **"Reconfigurări ale spațiului public
 ## Work samples
 
 [Transcription sample](https://drive.google.com/file/d/1xCmn5TnKkYOtQC1ieCqjsYVwWXJoDWzM/view)
+
+[Translation sample](https://drive.google.com/file/d/1yCATsczZvRjqFmUYJQQzPrvfHIqVKZW7/view)
 
 [Proofreading sample](https://drive.google.com/file/d/1FdI_K_KJ2Lf0jkew86t7JBut5M3hthsK/view)
 
