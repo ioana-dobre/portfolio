@@ -47,7 +47,7 @@ Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” Unive
 
 **Wikipedia Translator**
 
-I am a contributor on Wikipedia and I translate articles from English to Romanian to help improve the website by localization and at the same time to practice my translation skills. You can see my work [here](https://en.wikipedia.org/wiki/User:Ioana2022).
+I am a contributor on Wikipedia and I translate articles from English to Romanian to help improve the website by localization and at the same time to practice my translation skills. Here is one of my translated articles: [Sociological Francoism/Franchism sociologic](https://ro.wikipedia.org/wiki/Franchism_sociologic).
 
 **The 7 cups Translation Project**
 
