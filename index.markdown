@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ioana Dobre – Transcriber, English to Romanian Translator and Proofreader
+# Ioana Dobre – English to Romanian Translator, Proofreader and Transcriber
 
 E-mail: [ioana.dobre@protonmail.com](mailto:ioana.dobre@protonmail.com)
 
@@ -24,6 +24,24 @@ If you have the possibility, why not buy time by hiring me to take care of small
 
 ## My projects
 
+### Translator En -> Ro
+
+**The sociological research project “Negotiating Return to Work in the Age of Demographic Change through Industrial Relations” (REWIR)**
+
+Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” University of Sibiu, the project focused on policies about the return to work of people after a long absence due to medical issues. I translated from English to Romanian a research report and a briefing.
+
+**Wikipedia Translator and Editor**
+
+I am a contributor on Wikipedia and I translate articles from English to Romanian to help improve the website by localization and at the same time to practice my translation skills. I also edit existing articles written in Romanian but my main activity there is translation. Currently I translate there almost daily. You can find all my translated articles on my [user page](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
+
+**The 7 cups Translation Project**
+
+7 cups is a website which provides online therapy and free support to people experiencing emotional distress by connecting them with trained volunteer listeners. I contributed to the translation of the site from English to Romanian to make it available to non-English speakers.
+
+### Proofreader for Romanian language
+
+I proofread a sociological book entitled **"Reconfigurări ale spațiului public în România postsocialistă: atitudini sociale față de redenumirea străzilor și înlăturarea statuilor"**  written by Mihai Rusu and Alin Croitoru.
+
 ### Interview transcriber for Romanian language
 
 **The sociological research project “Returnees’ Innovative Skills and Knowledge: Becoming Entrepreneur through Migration Experience” (RISK)**
@@ -39,40 +57,29 @@ It was my own qualitative research as a graduate student. As a part of the resea
 
 It was an ethnological project funded by ASTRA National Museum Complex Sibiu which was focused on recording various traditions through interviews. I transcribed 10 interviews featuring people from various villages of the Sibiu county talking about the traditions in their residential areas.
 
-### Translator En - Ro
-
-**The sociological research project “Negotiating Return to Work in the Age of Demographic Change through Industrial Relations” (REWIR)**
-
-Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” University of Sibiu, the project focused on policies about the return to work of people after a long absence due to medical issues. I translated from English to Romanian a research report and a briefing.
-
-**Wikipedia Translator**
-
-I am a contributor on Wikipedia and I translate articles from English to Romanian to help improve the website by localization and at the same time to practice my translation skills. Here is one of my translated articles: [Sociological Francoism/Franchism sociologic](https://ro.wikipedia.org/wiki/Franchism_sociologic).
-
-**The 7 cups Translation Project**
-
-7 cups is a website which provides online therapy and free support to people experiencing emotional distress by connecting them with trained volunteer listeners. I contributed to the translation of the site from English to Romanian to make it available to non-English speakers.
-
-### Proofreader for Romanian language
-
-I proofread a sociological book entitled **"Reconfigurări ale spațiului public în România postsocialistă: atitudini sociale față de redenumirea străzilor și înlăturarea statuilor"**  written by Mihai Rusu and Alin Croitoru.
-
 
 ## Work samples
 
-[Transcription sample](https://drive.google.com/file/d/1xCmn5TnKkYOtQC1ieCqjsYVwWXJoDWzM/view)
 
-[Translation sample](https://drive.google.com/file/d/1yCATsczZvRjqFmUYJQQzPrvfHIqVKZW7/view)
+[Translation sample - sociological article](https://drive.google.com/file/d/1yCATsczZvRjqFmUYJQQzPrvfHIqVKZW7/view)
+
+[Translation sample - Wikipedia article](https://ro.wikipedia.org/wiki/Franchism_sociologic)
 
 [Proofreading sample](https://drive.google.com/file/d/1FdI_K_KJ2Lf0jkew86t7JBut5M3hthsK/view)
 
+[Transcription sample](https://drive.google.com/file/d/1xCmn5TnKkYOtQC1ieCqjsYVwWXJoDWzM/view)
+
 ## Testimonials
+
+Proofreading:
 
 *“I am very pleased with the quality of work and the level of textual engagement with my manuscript done by Ioana Dobre. She provided meticulous proofing and spotted what would have otherwise been rather embarrassing typos and other grammatical mistakes after publishing. Academic researchers need such committed professional proofreaders, whose services allow them to focus entirely on the content of their work. Ioana is definitely such a reliable professional.”*
 
 **Mihai Rusu, lecturer at ‘Lucian Blaga’ University of Sibiu**
 
 [mihai.rusu@ulbsibiu.ro](mailto:mihai.rusu@ulbsibiu.ro)
+
+Interview Transcription:
 
 *“Ioana was one of the few brilliant students of my class of Classical Sociology Theory at university. After a while, I was very happy that she responded positively to my invitation to perform work as a research assistant within a national research project focused on international migration and entrepreneurship. She perfectly understood the requirements of social research activity and managed to provide high quality transcription for in-depth interviews. She was able to prioritize tasks, worked laboriously and always respected deadlines. Certainly, I would recommend her for future projects.”*
 
