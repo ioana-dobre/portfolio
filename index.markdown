@@ -24,7 +24,7 @@ If you have the possibility, why not buy time by hiring me to take care of small
 
 ## My projects
 
-### Translator En -> Ro
+### Translator from English to Romanian
 
 **The sociological research project “Negotiating Return to Work in the Age of Demographic Change through Industrial Relations” (REWIR)**
 
@@ -79,7 +79,7 @@ Proofreading:
 
 [mihai.rusu@ulbsibiu.ro](mailto:mihai.rusu@ulbsibiu.ro)
 
-Interview Transcription:
+Interview transcription:
 
 *“Ioana was one of the few brilliant students of my class of Classical Sociology Theory at university. After a while, I was very happy that she responded positively to my invitation to perform work as a research assistant within a national research project focused on international migration and entrepreneurship. She perfectly understood the requirements of social research activity and managed to provide high quality transcription for in-depth interviews. She was able to prioritize tasks, worked laboriously and always respected deadlines. Certainly, I would recommend her for future projects.”*
 
