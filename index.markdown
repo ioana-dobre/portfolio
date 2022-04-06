@@ -16,9 +16,9 @@ Location: Romania
 
 ![portfolio picture](assets/portfolio_picture.png){:width="250px"}
 
-I offer transcribing, translating and proofreading services. I'm native in Romanian and advanced in English (C1). My areas of expertise are sociology, ethnology, human resources and social work. I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software: Microsoft Word, ExpressScribe (for transcribing) and OmegaT (for translation).
+I offer transcribing, translating and proofreading services. I'm native in Romanian and advanced in English (C1). My areas of expertise are sociology, ethnology, human resources and news articles. I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software: Microsoft Word, ExpressScribe (for transcribing) and OmegaT (for translation).
 
-I have experience in translating sociological text from English to Romanian, in proofreading sociological books in Romanian and in transcribing interviews. In addition, I like to donate my time and skills to various crowd sourced projects which are important to me.  Currently I am a translator on Wikipedia, where I translate articles from English to Romanian and as well as on Global Voices, where I translate news articles from all over the world.
+I have experience in translating sociological text from English to Romanian, in proofreading sociological books in Romanian and in transcribing interviews. In addition, I am a translator for [Global Voices](https://globalvoices.org/), an international news agency. Moreover, I translate articles from English to Romanian on Wikipedia to improve the information people can find in Romanian there.
 
 If you have the possibility, why not buy time by hiring me to take care of small details of your work while you can focus more on what's important to you?
 
@@ -33,15 +33,15 @@ Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” Unive
 
 **Global Voices Translator**
 
-Global Voices is an international nonprofit news agency reporting on all sorts of social issues around the world from racism to the loss of indigenous languages. I am a volunteer there and I translate articles which address social issues I am interested in, such as disability rights, but also entertainment articles about movies, games and music. You can find all my translated articles [here](https://ro.globalvoices.org/author/ioana-dobre).
+Global Voices is an international nonprofit news agency reporting on a variety of social issues around the world from racism to the loss of indigenous languages. I translate articles which address social issues I am interested in, like the war in Ukraine. Also, I ejoy translating entertainment articles about movies, games and music. I love working there! You can find all my translated articles on [my Global Voices translator profile](https://ro.globalvoices.org/author/ioana-dobre).
 
 **Wikipedia Translator and Editor**
 
-I am a contributor on Wikipedia and I translate articles from English to Romanian to help improve the website by localization and at the same time to practice my translation skills. I also edit existing articles written in Romanian but my main activity there is translation. I want to help localize pages related to sociology and society for sociology students as well as for the general public. You can find all my translated articles on my [user page](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
+I am a contributor on Wikipedia and I translate articles from English to Romanian to help inprove the site by localization, especially in what concerns society and sociology, my field of expertise. I also edit existing articles written in Romanian sometimes but my main activity there is translation. You can find all my translated articles on [my user page](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
 
 **The 7 cups Translation Project**
 
-7 cups is a website which provides online therapy and free support to people experiencing emotional distress by connecting them with trained volunteer listeners. I contributed to the translation of the site from English to Romanian to make it available to non-English speakers.
+7 cups is a website which provides online therapy and free support to people experiencing emotional distress by connecting them with trained volunteer listeners. I contributed to the translation of the site from English to Romanian to make it available to non-English speakers but the translation has yet to be implemented.
 
 ### Proofreader for Romanian language
 
@@ -68,9 +68,9 @@ It was an ethnological project funded by ASTRA National Museum Complex Sibiu whi
 
 [Translation sample - sociological article](https://drive.google.com/file/d/1yCATsczZvRjqFmUYJQQzPrvfHIqVKZW7/view)
 
-[Translation sample - Wikipedia article](https://ro.wikipedia.org/wiki/Sociologia_Internetului)
+[Translation sample - Wikipedia article](https://ro.wikipedia.org/wiki/Franchism_sociologic)
 
-[Translation sample - News article](https://ro.globalvoices.org/2022/03/3510)
+[Translation sample - News article](https://ro.globalvoices.org/2022/04/3660)
 
 [Proofreading sample](https://drive.google.com/file/d/1FdI_K_KJ2Lf0jkew86t7JBut5M3hthsK/view)
 
