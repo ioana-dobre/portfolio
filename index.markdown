@@ -37,7 +37,7 @@ Global Voices is an international nonprofit news agency reporting on a variety o
 
 **Wikipedia Translator and Editor**
 
-I am a contributor on Wikipedia and I translate articles from English to Romanian to help inprove the site by localization, especially in what concerns society and sociology, my field of expertise. I also edit existing articles written in Romanian sometimes but my main activity there is translation. You can find all my translated articles on [my user page](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
+I was a contributor on Wikipedia and I translated articles from English to Romanian to help inprove the site by localization, especially in what concerns society and sociology, one of my fields of expertise. I also edited existing articles written in Romanian sometimes but my main activity there was translation. You can find all my translated articles on [my user page](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
 
 **The 7 cups Translation Project**
 
