@@ -16,11 +16,18 @@ Location: Romania
 
 ![portfolio picture](assets/portfolio_picture.png){:width="250px"}
 
-I offer transcribing, translating and proofreading services. I'm native in Romanian and advanced in English (C1). My areas of expertise are sociology, ethnology, human resources and news articles. I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software: Microsoft Word, ExpressScribe (for transcribing) and OmegaT (for translation).
+I offer English to Romanian translating, proofreading and transcribing services. I am native in Romanian and advanced in English (C1). My areas of expertise are:
+-  academic subjects: sociology, ethnology, human resources and social work
+-  marketing
+-  journalistic articles ([see my Global Voices profile](https://ro.globalvoices.org/author/ioana-dobre))
 
-I have experience in translating sociological text from English to Romanian, in proofreading sociological books in Romanian and in transcribing interviews. In addition, I am a translator for [Global Voices](https://globalvoices.org/), an international news agency. Moreover, I translate articles from English to Romanian on Wikipedia to improve the information people can find in Romanian there.
+I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software:
+- Microsoft Word
+- OmegaT (for translating)
+- ExpressScribe (for transcribing)
+- Subtitle Edit (for subtitling)
 
-If you have the possibility, why not buy time by hiring me to take care of small details of your work while you can focus more on what's important to you?
+If you have the possibility, why not buy time by hiring me to take care of small details of your work while you can focus more on what is important to you?
 
 ## My projects
 
@@ -30,14 +37,13 @@ If you have the possibility, why not buy time by hiring me to take care of small
 
 Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” University of Sibiu, the project focused on policies about the return to work of people after a long absence due to medical issues. I translated from English to Romanian a research report and a briefing.
 
-
 **Global Voices Translator**
 
-Global Voices is an international nonprofit news agency reporting on a variety of social issues around the world from racism to the loss of indigenous languages. I translate articles which address social issues I am interested in, like the war in Ukraine. Also, I ejoy translating entertainment articles about movies, games and music. I love working there! You can find all my translated articles on [my Global Voices translator profile](https://ro.globalvoices.org/author/ioana-dobre).
+Global Voices is an international non-profit news agency reporting on a variety of social issues around the world from racism to the loss of indigenous languages. I translate articles which address social issues I am interested in, like the war in Ukraine. Also, I enjoy translating entertainment articles about movies, games and music. I love working there! You can find all my translated articles on [my Global Voices translator profile](https://ro.globalvoices.org/author/ioana-dobre).
 
 **Wikipedia Translator and Editor**
 
-I was a contributor on Wikipedia and I translated articles from English to Romanian to help inprove the site by localization, especially in what concerns society and sociology, one of my fields of expertise. I also edited existing articles written in Romanian sometimes but my main activity there was translation. You can find all my translated articles on [my user page](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
+I was a contributor on Wikipedia and I translated articles from English to Romanian to help improve the site by localization, especially in what concerns society and sociology, one of my fields of expertise. I also edited existing articles written in Romanian sometimes but my main activity there was translation. You can find all my translated articles on [my user page](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
 
 **The 7 cups Translation Project**
 
@@ -64,7 +70,6 @@ It was an ethnological project funded by ASTRA National Museum Complex Sibiu whi
 
 
 ## Work samples
-
 
 [Translation sample - sociological article](https://drive.google.com/file/d/1yCATsczZvRjqFmUYJQQzPrvfHIqVKZW7/view)
 
