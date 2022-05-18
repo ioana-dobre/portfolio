@@ -16,7 +16,9 @@ Location: Romania
 
 ![portfolio picture](assets/portfolio_picture.png){:width="250px"}
 
-I offer English to Romanian translating, proofreading and transcribing services. I am native in Romanian and advanced in English (C1). My areas of expertise are:
+I offer English to Romanian translating, proofreading and transcribing services. I am native in Romanian and advanced in English (C1).
+
+My areas of expertise are:
 -  academic subjects: sociology, ethnology, human resources and social work
 -  marketing
 -  journalistic articles ([see my Global Voices profile](https://ro.globalvoices.org/author/ioana-dobre))
@@ -27,46 +29,75 @@ I am well organized, self driven, reliable and I have experience in working remo
 - ExpressScribe (for transcribing)
 - Subtitle Edit (for subtitling)
 
-If you have the possibility, why not buy time by hiring me to take care of small details of your work while you can focus more on what is important to you?
-
 ## My projects
 
 ### Translator from English to Romanian
 
-**The sociological research project “Negotiating Return to Work in the Age of Demographic Change through Industrial Relations” (REWIR)**
+**“Negotiating Return to Work in the Age of Demographic Change through Industrial Relations” (REWIR)**
 
-Coordinated by associate professor doctor Adela Popa of “Lucian Blaga” University of Sibiu, the project focused on policies about the return to work of people after a long absence due to medical issues. I translated from English to Romanian a research report and a briefing.
+- **areas of specialization**: medical sociology, public policies, human resources
+- **project type**: sociological research project focused on returning to work policies in Romania
+- **my role**: translating research reports from English to Romanian
+- **client**: associate professor [Adela Popa](https://socioumane.ulbsibiu.ro/team/adela-elena-popa/) of “Lucian Blaga” University of Sibiu
+
 
 **Global Voices Translator**
 
-Global Voices is an international non-profit news agency reporting on a variety of social issues around the world from racism to the loss of indigenous languages. I translate articles which address social issues I am interested in, like the war in Ukraine. Also, I enjoy translating entertainment articles about movies, games and music. I love working there! You can find all my translated articles on [my Global Voices translator profile](https://ro.globalvoices.org/author/ioana-dobre).
+- **area of specialization**: journalism
+- **organization type**: international non-profit news outlet reporting on social issues around the world
+- **my role**: bringing news to a local, non-English speaking audience by translating articles into Romanian
+- **client**: [Global Voices](https://globalvoices.org/)
+- [see my extensive work on this project here](https://ro.globalvoices.org/author/ioana-dobre)
 
 **Wikipedia Translator and Editor**
 
-I was a contributor on Wikipedia and I translated articles from English to Romanian to help improve the site by localization, especially in what concerns society and sociology, one of my fields of expertise. I also edited existing articles written in Romanian sometimes but my main activity there was translation. You can find all my translated articles on [my user page](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
+- **areas of specialization**: general text, sociology
+- **my role**: translating and editing sociological and entertainment articles from English to Romanian
+- [see my work on this project here](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022)
 
 **The 7 cups Translation Project**
 
-7 cups is a website which provides online therapy and free support to people experiencing emotional distress by connecting them with trained volunteer listeners. I contributed to the translation of the site from English to Romanian to make it available to non-English speakers but the translation has yet to be implemented.
+- **areas of specialization**: general psychology, website translation
+- **organization type**: a website which provides both free and paid support to people experiencing emotional distress
+- **my role**: contributing to the translation of the website into Romanian to make it available to non-English speakers
+- **client**: [7 cups](https://www.7cups.com/)
+- **status**: translation is not implemented yet
 
 ### Proofreader for Romanian language
 
-I proofread a sociological book entitled **"Reconfigurări ale spațiului public în România postsocialistă: atitudini sociale față de redenumirea străzilor și înlăturarea statuilor"**  written by Mihai Rusu and Alin Croitoru.
+**NAMESCAPES**
+
+- **area of specialization**: sociology
+- **project type**: sociological research project about the politics of naming and renaming streets in Romania
+- **my role**: proofreading a book which resulted from the research project
+- **clients**: lecturers [Mihai Rusu](https://socioumane.ulbsibiu.ro/team/mihai-stelian-rusu/) and [Alin Croitoru](https://socioumane.ulbsibiu.ro/team/alin-iosif-croitoru/) from "Lucian Blaga" University of Sibiu
+
 
 ### Interview transcriber for Romanian language
 
-**The sociological research project “Returnees’ Innovative Skills and Knowledge: Becoming Entrepreneur through Migration Experience” (RISK)**
+**“Returnees’ Innovative Skills and Knowledge: Becoming Entrepreneur through Migration Experience” (RISK)**
 
-The project focused on the relationship between migration and entrepreneurship. It was coordinated by university lecturer doctor Alin Croitoru of “Lucian Blaga” University of Sibiu. My job was to transcribe 18 interviews featuring migrants who returned home.
+- **area of specialization**: migration sociology
+- **project type**: sociological research project focused on the relationship between migration and entrepreneurship
+- **my role**: transcribing research interviews with migrants and entrepreneurs
+- **client**: lecturer [Alin Croitoru](https://socioumane.ulbsibiu.ro/team/alin-iosif-croitoru/) of “Lucian Blaga” University of Sibiu
 
-**The sociological research project entitled “Communication and sense of belonging in an organization”**
 
-It was my own qualitative research as a graduate student. As a part of the research process I took 10 interviews and I transcribed them.
+**The sociological research project “Communication and sense of belonging in an organization”**
+
+- **areas of specialization**: communication sociology, organizational sociology
+- **project type**: my own research project focused on organizational communication
+- **my role**: transcribing research interviews with employees
 
 
-**An ethnological research project focused on traditions**
 
-It was an ethnological project funded by ASTRA National Museum Complex Sibiu which was focused on recording various traditions through interviews. I transcribed 10 interviews featuring people from various villages of the Sibiu county talking about the traditions in their residential areas.
+**An ethnological project focused on traditions**
+
+- **area of specialization**: ethnology
+- **project type**: data collection about traditional practices from villages in Sibiu county
+- **my role**: transcribing interviews with villagers
+- **clients**: ethnographers such as Oana Burcea at [ASTRA National Museum Complex Sibiu](https://muzeulastra.ro/en/about/)
+
 
 
 ## Work samples
@@ -87,7 +118,7 @@ Proofreading:
 
 *“I am very pleased with the quality of work and the level of textual engagement with my manuscript done by Ioana Dobre. She provided meticulous proofing and spotted what would have otherwise been rather embarrassing typos and other grammatical mistakes after publishing. Academic researchers need such committed professional proofreaders, whose services allow them to focus entirely on the content of their work. Ioana is definitely such a reliable professional.”*
 
-**Mihai Rusu, lecturer at ‘Lucian Blaga’ University of Sibiu**
+**Mihai Rusu, lecturer at "Lucian Blaga" University of Sibiu**
 
 [mihai.rusu@ulbsibiu.ro](mailto:mihai.rusu@ulbsibiu.ro)
 
@@ -95,7 +126,7 @@ Interview transcription:
 
 *“Ioana was one of the few brilliant students of my class of Classical Sociology Theory at university. After a while, I was very happy that she responded positively to my invitation to perform work as a research assistant within a national research project focused on international migration and entrepreneurship. She perfectly understood the requirements of social research activity and managed to provide high quality transcription for in-depth interviews. She was able to prioritize tasks, worked laboriously and always respected deadlines. Certainly, I would recommend her for future projects.”*
 
-**Alin Croitoru, lecturer at ‘Lucian Blaga’ University of Sibiu**
+**Alin Croitoru, lecturer at "Lucian Blaga" University of Sibiu**
 
 [alin.croitoru@ulbsibiu.ro](mailto:alin.croitoru@ulbsibiu.ro)
 
