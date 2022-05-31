@@ -97,6 +97,14 @@ I am well organized, self driven, reliable and I have experience in working remo
 - `my role`: transcribing interviews with villagers
 - `clients`: ethnographers such as Oana Burcea at [ASTRA National Museum Complex Sibiu](https://muzeulastra.ro/en/about/)
 
+### Subtitler in English and Romanian for YouYube videos
+
+**Subtitling various YouTube videos**
+
+- `areas of specialization`: vlogging, education
+- `my role`: subtitling videos in the original language and/or translating the subtitles into English or Romanian
+- `client`: [Povești de Viață Locomotorii](https://www.youtube.com/c/PovestideViataLocomotorii) (I am given credit in the description for subtitled video)
+
 
 
 ## Work samples
@@ -110,6 +118,8 @@ I am well organized, self driven, reliable and I have experience in working remo
 [Proofreading sample](https://drive.google.com/file/d/1FdI_K_KJ2Lf0jkew86t7JBut5M3hthsK/view)
 
 [Transcription sample](https://drive.google.com/file/d/1xCmn5TnKkYOtQC1ieCqjsYVwWXJoDWzM/view)
+
+[Subtitle sample](https://www.youtube.com/watch?v=cFgebPd9HGI)
 
 ## Testimonials
 
