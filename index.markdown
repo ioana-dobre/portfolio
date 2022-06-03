@@ -101,10 +101,9 @@ I am well organized, self driven, reliable and I have experience in working remo
 
 **Subtitling various YouTube videos**
 
-- `areas of specialization`: vlogging, education
+- `areas of specialization`: vlogging, education, music
 - `my role`: subtitling videos in the original language and/or translating the subtitles into English or Romanian
-- `client`: [Povești de Viață Locomotorii](https://www.youtube.com/c/PovestideViataLocomotorii) (I am given credit in the description for subtitled video)
-
+- `YouTubers`: [Povești de Viață Locomotorii](https://www.youtube.com/watch?v=cFgebPd9HGI), [Frank Watkinson](https://www.youtube.com/watch?v=bHsu3E-ecj0)
 
 
 ## Work samples
