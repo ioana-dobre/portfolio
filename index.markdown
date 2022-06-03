@@ -6,6 +6,8 @@ layout: default
 
 E-mail: [ioana.dobre@protonmail.com](mailto:ioana.dobre@protonmail.com)
 
+LinkedIn: [Ioana Dobre](https://www.linkedin.com/in/ioana-dobre-803625226/)
+
 WhatsApp: +40741084990
 
 Location: Romania
