@@ -48,7 +48,7 @@ I am well organized, self driven, reliable and I have experience in working remo
 - `area of specialization`: journalism
 - `organization type`: international non-profit news outlet reporting on social issues around the world
 - `my role`: bringing news to a local, non-English speaking audience by translating articles into Romanian
-- `client`: [Global Voices](https://globalvoices.org/)
+- `NGO`: [Global Voices](https://globalvoices.org/)
 - [see my extensive work on this project here](https://ro.globalvoices.org/author/ioana-dobre)
 
 **Wikipedia Translator and Editor**
@@ -62,7 +62,7 @@ I am well organized, self driven, reliable and I have experience in working remo
 - `areas of specialization`: general psychology, website translation
 - `organization type`: a website which provides both free and paid support to people experiencing emotional distress
 - `my role`: contributing to the translation of the website into Romanian to make it available to non-English speakers
-- `client`: [7 cups](https://www.7cups.com/)
+- `NGO`: [7 cups](https://www.7cups.com/)
 
 ### Proofreader for Romanian language
 
