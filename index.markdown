@@ -2,13 +2,11 @@
 layout: default
 ---
 
-# Ioana Dobre – English to Romanian Translator, Proofreader and Transcriber
+# Ioana Dobre – English to Romanian Translator
 
 E-mail: [ioana.dobre@protonmail.com](mailto:ioana.dobre@protonmail.com)
 
 LinkedIn: [Ioana Dobre](https://www.linkedin.com/in/ioana-dobre-803625226/)
-
-WhatsApp: +40741084990
 
 Location: Romania
 
@@ -18,18 +16,19 @@ Location: Romania
 
 ![portfolio picture](assets/portfolio_picture.png){:width="250px"}
 
-I offer English to Romanian translating, proofreading and transcribing services. I am native in Romanian and advanced in English (C1).
+I offer English to Romanian translating, subtitling, proofreading and transcribing services. I am native in Romanian and advanced in English (C1).
 
 My areas of expertise are:
--  academic subjects: sociology, ethnology, human resources and social work
+-  academic subjects: sociology, ethnology
 -  marketing
 -  journalistic articles ([see my Global Voices profile](https://ro.globalvoices.org/author/ioana-dobre))
 
 I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software:
 - Microsoft Word
 - OmegaT (for translating)
-- ExpressScribe (for transcribing)
 - Subtitle Edit (for subtitling)
+- ExpressScribe (for transcribing)
+
 
 ## My projects
 
@@ -64,6 +63,14 @@ I am well organized, self driven, reliable and I have experience in working remo
 - `my role`: contributing to the translation of the website into Romanian to make it available to non-English speakers
 - `NGO`: [7 cups](https://www.7cups.com/)
 
+### Subtitler in English and Romanian
+
+**Subtitling various YouTube videos**
+
+- `areas of specialization`: vlogging, education, music
+- `my role`: subtitling videos in the original language and/or translating the subtitles into English or Romanian
+- `YouTubers`: [Povești de Viață Locomotorii](https://www.youtube.com/watch?v=cFgebPd9HGI), [Frank Watkinson](https://www.youtube.com/watch?v=bHsu3E-ecj0)
+
 ### Proofreader for Romanian language
 
 **NAMESCAPES**
@@ -84,28 +91,12 @@ I am well organized, self driven, reliable and I have experience in working remo
 - `client`: lecturer [Alin Croitoru](https://socioumane.ulbsibiu.ro/team/alin-iosif-croitoru/) of “Lucian Blaga” University of Sibiu
 
 
-**The sociological research project “Communication and sense of belonging in an organization”**
-
-- `areas of specialization`: communication sociology, organizational sociology
-- `project type`: my own research project focused on organizational communication
-- `my role`: transcribing research interviews with employees
-
-
-
 **An ethnological project focused on traditions**
 
 - `area of specialization`: ethnology
 - `project type`: data collection about traditional practices from villages in Sibiu county
 - `my role`: transcribing interviews with villagers
-- `clients`: ethnographers such as Oana Burcea at [ASTRA National Museum Complex Sibiu](https://muzeulastra.ro/en/about/)
-
-### Subtitler in English and Romanian for YouYube videos
-
-**Subtitling various YouTube videos**
-
-- `areas of specialization`: vlogging, education, music
-- `my role`: subtitling videos in the original language and/or translating the subtitles into English or Romanian
-- `YouTubers`: [Povești de Viață Locomotorii](https://www.youtube.com/watch?v=cFgebPd9HGI), [Frank Watkinson](https://www.youtube.com/watch?v=bHsu3E-ecj0)
+- `client`: ethnographer Oana Burcea at [ASTRA National Museum Complex Sibiu](https://muzeulastra.ro/en/about/)
 
 
 ## Work samples
@@ -114,13 +105,15 @@ I am well organized, self driven, reliable and I have experience in working remo
 
 [Translation sample - Wikipedia article](https://ro.wikipedia.org/wiki/Franchism_sociologic)
 
-[Translation sample - News article](https://ro.globalvoices.org/2022/04/3660)
+[Translation sample - Journalistic article](https://ro.globalvoices.org/2022/04/3660)
+
+[Subtitle sample](https://www.youtube.com/watch?v=cFgebPd9HGI)
 
 [Proofreading sample](https://drive.google.com/file/d/1FdI_K_KJ2Lf0jkew86t7JBut5M3hthsK/view)
 
 [Transcription sample](https://drive.google.com/file/d/1xCmn5TnKkYOtQC1ieCqjsYVwWXJoDWzM/view)
 
-[Subtitle sample](https://www.youtube.com/watch?v=cFgebPd9HGI)
+
 
 ## Testimonials
 
