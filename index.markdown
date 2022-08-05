@@ -16,12 +16,13 @@ Location: Romania
 
 ![portfolio picture](assets/portfolio_picture.png){:width="250px"}
 
-I offer English to Romanian translating, subtitling, proofreading and transcribing services. I am native in Romanian and advanced in English (C1).
+I offer English to Romanian translation, subtitling, proofreading and audio transcription services. I am native in Romanian and advanced in English (C1).
 
 My areas of expertise are:
--  academic subjects: sociology, ethnology
+-  academic translation (sociology, ethnology, anthropology)
 -  marketing
--  journalistic articles ([see my Global Voices profile](https://ro.globalvoices.org/author/ioana-dobre))
+-  journalism ([see my Global Voices profile](https://ro.globalvoices.org/author/ioana-dobre))
+-  education  ([see my TED profile](https://www.ted.com/profiles/36332057/translator))
 
 I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software:
 - Microsoft Word
@@ -47,8 +48,8 @@ I am well organized, self driven, reliable and I have experience in working remo
 - `area of specialization`: journalism
 - `organization type`: international non-profit news outlet reporting on social issues around the world
 - `my role`: bringing news to a local, non-English speaking audience by translating articles into Romanian
-- `NGO`: [Global Voices](https://globalvoices.org/)
-- [see my extensive work on this project here](https://ro.globalvoices.org/author/ioana-dobre)
+- `organization website`: [Global Voices](https://globalvoices.org/)
+- [see my over 50 translated articles here](https://ro.globalvoices.org/author/ioana-dobre)
 
 **Wikipedia Translator and Editor**
 
@@ -61,9 +62,17 @@ I am well organized, self driven, reliable and I have experience in working remo
 - `areas of specialization`: general psychology, website translation
 - `organization type`: a website which provides both free and paid support to people experiencing emotional distress
 - `my role`: contributing to the translation of the website into Romanian to make it available to non-English speakers
-- `NGO`: [7 cups](https://www.7cups.com/)
+- `organization website`: [7 cups](https://www.7cups.com/)
 
-### Subtitler in English and Romanian
+### Subtitler from English to Romanian
+
+**TED Translate Subtitler**
+
+- `area of specialization`: education
+- `organization type`: well-known organization focused on education and public speaking with various YouTube channels
+- `my role`: translating subtitles from English to Romanian
+- `organization website`: [TED](https://www.ted.com/)
+- [see my subtitled videos here](https://www.ted.com/profiles/36332057/translator)
 
 **Subtitling various YouTube videos**
 
