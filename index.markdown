@@ -4,6 +4,8 @@ layout: default
 
 # Ioana Dobre – English to Romanian Translator
 
+*Social scientist by profession translator by passion*
+
 E-mail: [ioana.dobre@protonmail.com](mailto:ioana.dobre@protonmail.com)
 
 LinkedIn: [Ioana Dobre](https://www.linkedin.com/in/ioana-dobre-803625226/)
@@ -18,103 +20,34 @@ Location: Romania
 
 I offer English to Romanian translation, subtitling, proofreading and audio transcription services. I am native in Romanian and advanced in English (C1).
 
+I love translation, so much so that I have translated **more than 100 articles** on Global Voices as a volunteer. Translation is a true passion for me. As a social scientist I love texts exposing social problems and texts describing protests.
+
 My areas of expertise are:
--  academic translation (sociology, ethnology, anthropology)
--  marketing
+-  academic translation in social sciences
 -  journalism ([see my Global Voices profile](https://ro.globalvoices.org/author/ioana-dobre))
 -  education  ([see my TED profile](https://www.ted.com/profiles/36332057/translator))
 
 I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software:
 - Microsoft Word
 - OmegaT (for translating)
-- Subtitle Edit (for subtitling)
+- Subtitle Edit, CaptionHub (for subtitling)
 - ExpressScribe (for transcribing)
 
 
 ## My projects
 
-### Translator from English to Romanian
-
-**“Negotiating Return to Work in the Age of Demographic Change through Industrial Relations” (REWIR)**
-
-- `areas of specialization`: medical sociology, public policies, human resources
-- `project type`: sociological research project focused on returning to work policies in Romania
-- `my role`: translating research reports from English to Romanian
-- `client`: associate professor [Adela Popa](https://socioumane.ulbsibiu.ro/team/adela-elena-popa/) of “Lucian Blaga” University of Sibiu
-
-
-**Global Voices Translator**
-
-- `area of specialization`: journalism
-- `organization type`: international non-profit news outlet reporting on social issues around the world
-- `my role`: bringing news to a local, non-English speaking audience by translating articles into Romanian
-- `organization website`: [Global Voices](https://globalvoices.org/)
-- [see my over 50 translated articles here](https://ro.globalvoices.org/author/ioana-dobre)
-
-**Wikipedia Translator and Editor**
-
-- `areas of specialization`: general text, sociology
-- `my role`: translating and editing sociological and entertainment articles from English to Romanian
-- [see my work on this project here](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022)
-
-**The 7 cups Translation Project**
-
-- `areas of specialization`: general psychology, website translation
-- `organization type`: a website which provides both free and paid support to people experiencing emotional distress
-- `my role`: contributing to the translation of the website into Romanian to make it available to non-English speakers
-- `organization website`: [7 cups](https://www.7cups.com/)
-
-### Subtitler from English to Romanian
-
-**TED Translate Subtitler**
-
-- `area of specialization`: education
-- `organization type`: well-known organization focused on education and public speaking with various YouTube channels
-- `my role`: translating subtitles from English to Romanian
-- `organization website`: [TED](https://www.ted.com/)
-- [see my subtitled videos here](https://www.ted.com/profiles/36332057/translator)
-
-**Subtitling various YouTube videos**
-
-- `areas of specialization`: vlogging, education, music
-- `my role`: subtitling videos in the original language and/or translating the subtitles into English or Romanian
-- `YouTubers`: [Povești de Viață Locomotorii](https://www.youtube.com/watch?v=cFgebPd9HGI), [Frank Watkinson](https://www.youtube.com/watch?v=bHsu3E-ecj0)
-
-### Proofreader for Romanian language
-
-**NAMESCAPES**
-
-- `area of specialization`: sociology
-- `project type`: sociological research project about the politics of naming and renaming streets in Romania
-- `my role`: proofreading a book which resulted from the research project
-- `clients`: lecturers [Mihai Rusu](https://socioumane.ulbsibiu.ro/team/mihai-stelian-rusu/) and [Alin Croitoru](https://socioumane.ulbsibiu.ro/team/alin-iosif-croitoru/) from "Lucian Blaga" University of Sibiu
-
-
-### Interview transcriber for Romanian language
-
-**“Returnees’ Innovative Skills and Knowledge: Becoming Entrepreneur through Migration Experience” (RISK)**
-
-- `area of specialization`: migration sociology
-- `project type`: sociological research project focused on the relationship between migration and entrepreneurship
-- `my role`: transcribing research interviews with migrants and entrepreneurs
-- `client`: lecturer [Alin Croitoru](https://socioumane.ulbsibiu.ro/team/alin-iosif-croitoru/) of “Lucian Blaga” University of Sibiu
-
-
-**An ethnological project focused on traditions**
-
-- `area of specialization`: ethnology
-- `project type`: data collection about traditional practices from villages in Sibiu county
-- `my role`: transcribing interviews with villagers
-- `client`: ethnographer Oana Burcea at [ASTRA National Museum Complex Sibiu](https://muzeulastra.ro/en/about/)
-
+- **English to Romanian translator**: I have translated research reports and articles for academics, in addition to more than 100,000 words in the social domain for [Global Voices](https://ro.globalvoices.org/author/ioana-dobre). I have also translated [Wikipedia articles](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022).
+- **English to Romanian subtitler**: I have translated videos for [Ted-Ed,](https://www.ted.com/profiles/36332057/translator) as well as for two YouTubers.
+- **Proofreader**: I have proofread a sociological book in Romanian called "Reconfigurări ale spațiului public în România postsocialistă: atitudini sociale față de redenumirea străzilor și înlăturarea statuilor" by [Mihai Stelian Rusu](https://socioumane.ulbsibiu.ro/team/mihai-stelian-rusu/) and [Alin Croitoru](https://socioumane.ulbsibiu.ro/team/alin-iosif-croitoru/).
+- **Transcriber**: I have transcribed more than 70 research interviews for academics.
 
 ## Work samples
 
-[Translation sample - sociological article](https://drive.google.com/file/d/1yCATsczZvRjqFmUYJQQzPrvfHIqVKZW7/view)
+[Translation sample - Sociological article](https://drive.google.com/file/d/1yCATsczZvRjqFmUYJQQzPrvfHIqVKZW7/view)
 
 [Translation sample - Wikipedia article](https://ro.wikipedia.org/wiki/Franchism_sociologic)
 
-[Translation sample - Journalistic article](https://ro.globalvoices.org/2022/04/3660)
+[Translation sample - Global Voices article](https://ro.globalvoices.org/2022/04/3660)
 
 [Subtitle sample](https://www.youtube.com/watch?v=cFgebPd9HGI)
 
