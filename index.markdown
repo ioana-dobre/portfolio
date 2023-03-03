@@ -26,7 +26,7 @@ My areas of expertise are:
 -  academic translation in social sciences
 -  journalism ([see my Global Voices profile](https://ro.globalvoices.org/author/ioana-dobre))
 -  education  ([see my TED profile](https://www.ted.com/profiles/36332057/translator) and [my Wikipedia profile](https://ro.wikipedia.org/wiki/Utilizator:Ioana2022))
-
+- marketing
 I am well organized, self driven, reliable and I have experience in working remotely. As a professional, I'm proficient in the following software:
 - Microsoft Word
 - OmegaT (for translating)
