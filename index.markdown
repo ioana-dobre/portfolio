@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Ioana Dobre – English to Romanian Translator and Transcriber
+# Ioana Dobre – English to Romanian Translator
 
-*Social scientist by profession, translator by passion*
+*Social scientist by profession translator by passion*
 
 E-mail: [ioana.dobre@protonmail.com](mailto:ioana.dobre@protonmail.com)
 
